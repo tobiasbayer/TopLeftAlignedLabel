@@ -1,0 +1,2 @@
+Usage:
+Just add the files to your project and select "TopLeftAlignedLabel" as the class of your UILabel in Interface Builder.
